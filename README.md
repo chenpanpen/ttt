@@ -1,3 +1,3 @@
 # ttt
 
-這是我的 GitHub Pages 網頁連結：[https://chenpanpen.github.io/ttt/](https://chenpanpen.github.io/ttt/)
+這是我的 GitHub Pages 網頁連結：<a href="https://chenpanpen.github.io/ttt/" target="_blank">https://chenpanpen.github.io/ttt/</a>
